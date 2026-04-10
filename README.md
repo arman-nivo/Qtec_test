@@ -36,8 +36,8 @@ A modern, full-featured task management system built with Laravel 11, Jetstream,
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd task-management-system
+git remote add origin https://github.com/arman-nivo/Qtec_test.git
+cd Qtec_test
 ```
 
 ### 2. Install PHP dependencies
@@ -64,7 +64,7 @@ DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=task_management
 DB_USERNAME=root
-DB_PASSWORD=your_password
+DB_PASSWORD=
 ```
 
 ### 6. Create database
@@ -252,8 +252,8 @@ This project is open-sourced software licensed under the MIT license.
 
 ## Author
 
-Your Name - Full Stack Laravel Developer
+Gazi Arman Islam - Full Stack Laravel Developer
 
 ## Support
 
-For support, email your-email@example.com
+For support, email amiarman932@gmail.com
